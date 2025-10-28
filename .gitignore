@@ -1,0 +1,14 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.vscode/
+**/ios/Flutter/Flutter.framework
+**/android/.gradle/
+**/pubspec.lock
+
+# Python (на будущее для backend)
+*.pyc
+__pycache__/
+.env
+venv/
